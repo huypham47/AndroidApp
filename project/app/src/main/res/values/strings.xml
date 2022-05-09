@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">two_activity</string>
+    <string name="btnSend_txt">send</string>
+    <string name="msg_hint">Enter your message</string>
+</resources>
